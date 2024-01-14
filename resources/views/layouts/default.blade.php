@@ -855,7 +855,12 @@
                     <div class="pull-left" >
                         <a target="_blank" href="https://snipeitapp.com" rel="noopener">Snipe-IT</a> is open source software,
                         made with <i class="fas fa-heart" style="color: #a94442; font-size: 10px" aria-hidden="true"></i><span
-                                class="sr-only">love</span> by <a href="https://twitter.com/snipeitapp" rel="noopener">@snipeitapp</a>.
+                                class="sr-only">love</span> by <a 
+href="https://twitter.com/snipeitapp" rel="noopener">@snipeitapp</a> and 
+managed by <a style="color:#0a66c2;" 
+target="_blank" href="https://www.linkedin.com/in/keronlewis/"> ICT 
+Officer 
+Keron Lewis </a>.
                     </div>
                     <div class="pull-right">
                     @if ($snipeSettings->version_footer!='off')
