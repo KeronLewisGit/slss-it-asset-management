@@ -88,7 +88,7 @@
                                     <a href="{{ route('password.request')  }}">{{ trans('auth/general.forgot_password')  }}</a>
                                 </div>
                             @endif
-                            hello world
+                            <div class="test">hello world</div>
                         </div>
 
                     </div> <!-- end login box -->
